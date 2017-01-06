@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppIntro Slider</string>
+    <string name="app_intro_skip">Skip</string>
+    <string name="skip">Skip</string>
+</resources>
